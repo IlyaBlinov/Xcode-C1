@@ -12,7 +12,7 @@
 
 @property (strong, nonatomic) ActionSheetStringPicker *ap;
 
-
+@property (strong, nonatomic) NSString *name;
 @end
 
 @implementation IBViewController
