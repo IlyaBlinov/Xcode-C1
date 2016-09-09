@@ -8,6 +8,15 @@
 
 #import "IBAppDelegate.h"
 
+
+@interface IBAppDelegate ()
+
+@property (strong, nonatomic) NSString *string;
+
+@end
+
+
+
 @implementation IBAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
