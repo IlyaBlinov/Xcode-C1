@@ -12,7 +12,7 @@
 @interface IBAppDelegate ()
 
 @property (strong, nonatomic) NSString *string;
-
+@property (strong, nonatomic) NSString *nm;
 @end
 
 
